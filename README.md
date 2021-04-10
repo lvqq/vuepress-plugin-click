@@ -1,4 +1,6 @@
 # vuepress-plugin-click
+click heart animation in vuepress
+
 ### Install
 ```
 npm install vuepress-plugin-click -S
